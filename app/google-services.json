@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393124086761",
+    "firebase_url": "https://stepcounter2-a0b66.firebaseio.com",
+    "project_id": "stepcounter2-a0b66",
+    "storage_bucket": "stepcounter2-a0b66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393124086761:android:3489e576622193cf",
+        "android_client_info": {
+          "package_name": "com.functionality.stepcounter2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393124086761-t4tg2qlcgg0ksaacpl9p1eemu835lb0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.functionality.stepcounter2",
+            "certificate_hash": "f3ea736b438b3505a30f45d913acefbc0dfd3e8d"
+          }
+        },
+        {
+          "client_id": "393124086761-l5bmpqafuavlsggmvqu2mb1ojtm6sgjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjI5aRDZ6Q1_NZc9IyZTpGQZ0BfWMAcXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393124086761-l5bmpqafuavlsggmvqu2mb1ojtm6sgjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
